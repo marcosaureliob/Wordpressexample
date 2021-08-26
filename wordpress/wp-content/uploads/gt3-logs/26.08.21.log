@@ -1,0 +1,1 @@
+[26-08-2021 02:14:47] Error E_WARNING: getimagesize(http://localhost:8080/wp-content/plugins/woocommerce-ajax-filters/berocket/includes/../assets/images/ad_white_on_orange.webp): failed to open stream: Cannot assign requested address in /var/www/html/wp-content/plugins/woocommerce-ajax-filters/berocket/includes/admin_notices.php:209
