@@ -46,7 +46,7 @@ Note: before doing these steps make sure to have Apache, Mysql and Docker runnin
 
 ```bash
 # Clone this repository
-$ git clone https://gitlab.com/vitorsinedino/pet-stop.git
+$ git clone https://gitlab.com/marcos081295/pet-stop.git
 
 # Go into the repository
 $ cd pet-stop-master
